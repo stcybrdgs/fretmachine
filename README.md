@@ -4,7 +4,7 @@ Fretmachine is an interactive guitar neck that I designed for learning music the
 
 The meat and potatoes code for the neck functionality is baked into these files:
 - **[fretMachine.js](wp-content/themes/accesspress-staple/js/fretMachine.js)**
-- **[fretMachine_createScaleFunctions.js](wp-content/themes/accesspress-staple/js/fretMachine_CreateScaleFunctions.js)**
+- **[fretMachine_createScaleFunctions.js](wp-content/themes/accesspress-staple/js/fretMachine_createScaleFunctions.js)**
 - **[fretMachine_data.js](wp-content/themes/accesspress-staple/js/fretMachine_data.js)**
 - **[fretMachine_dropMenus.js](wp-content/themes/accesspress-staple/js/fretMachine_dropMenus.js)**
 
