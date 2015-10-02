@@ -1,0 +1,1640 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2014-09-11 00:43:48+00:00\n"
+"POT-Revision-Date: Sun Aug 23 2015 17:52:57 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:20
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: ../404.php:24
+msgid "404"
+msgstr ""
+
+#: ../404.php:25
+msgid "error"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:39
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:42
+msgid "Galleries"
+msgstr ""
+
+#: ../archive.php:45
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:48
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:51
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:54
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:57
+msgid "Statuses"
+msgstr ""
+
+#: ../archive.php:60
+msgid "Audios"
+msgstr ""
+
+#: ../archive.php:63
+msgid "Chats"
+msgstr ""
+
+#: ../archive.php:66
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:28
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:35 ../comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:20 ../content-single.php:20 ../content.php:202 ../front-
+#: page.php:612
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:27 ../inc/template-tags.php:122
+msgid "Edit"
+msgstr ""
+
+#: ../content-search.php:25 ../inc/accesspress-options.php:711
+msgid "Read More"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../content.php:213 ../content.php:223 ../front-page.php:622 ../front-page.php:
+#: 632 ../inc/template-tags.php:104 ../inc/template-tags.php:110
+msgid ", "
+msgstr ""
+
+#: ../content.php:217 ../front-page.php:626 ../inc/template-tags.php:106
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content.php:227 ../front-page.php:636 ../inc/template-tags.php:112
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../footer.php:51
+msgid "Copyright"
+msgstr ""
+
+#: ../footer.php:59
+msgid "WordPress Theme:"
+msgstr ""
+
+#: ../footer.php:73
+msgid "top"
+msgstr ""
+
+#: ../front-page.php:498
+msgid "No comment"
+msgstr ""
+
+#: ../front-page.php:498 ../inc/template-tags.php:118
+msgid "1 Comment"
+msgstr ""
+
+#: ../front-page.php:498 ../inc/template-tags.php:118
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:59 ../header.php:86
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:90
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../functions.php:99
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions.php:108
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions.php:117
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions.php:126
+msgid "Footer 3"
+msgstr ""
+
+#: ../functions.php:135
+msgid "Footer 4"
+msgstr ""
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:333 ../inc/accesspress-
+#: function.php:356
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:334 ../inc/accesspress-
+#: function.php:357
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:335 ../inc/accesspress-
+#: function.php:358
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:336 ../inc/accesspress-
+#: function.php:359
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:337 ../inc/accesspress-
+#: function.php:360
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:342 ../inc/accesspress-
+#: function.php:361
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:352 ../inc/accesspress-
+#: function.php:366
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:362
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:367 ../inc/accesspress-
+#: function.php:363
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:372 ../inc/accesspress-
+#: function.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:377
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:382 ../inc/accesspress-
+#: function.php:368
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:392 ../inc/accesspress-
+#: function.php:369
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:397 ../inc/accesspress-
+#: function.php:370
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:399 ../inc/accesspress-
+#: class-tgm-plugin-activation.php:3034 ../inc/accesspress-function.php:371
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:400 ../inc/accesspress-
+#: class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:833 ../inc/accesspress-
+#: class-tgm-plugin-activation.php:3443
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:940 ../inc/accesspress-
+#: class-tgm-plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:1121 ../inc/accesspress-
+#: class-tgm-plugin-activation.php:2833
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:1886
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2240
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2285
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2376
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2505
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3375 ../inc/accesspress-
+#: class-tgm-plugin-activation.php:3381
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3375 ../inc/accesspress-
+#: class-tgm-plugin-activation.php:3381
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3381
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/accesspress-class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/accesspress-custom-metabox.php:17
+msgid "Left sidebar"
+msgstr ""
+
+#: ../inc/accesspress-custom-metabox.php:22
+msgid "Right sidebar<br/>(default)"
+msgstr ""
+
+#: ../inc/accesspress-custom-metabox.php:27
+msgid "Both Sidebar"
+msgstr ""
+
+#: ../inc/accesspress-custom-metabox.php:33
+msgid "No sidebar"
+msgstr ""
+
+#: ../inc/accesspress-function.php:190
+msgid "skype:"
+msgstr ""
+
+#: ../inc/accesspress-function.php:362
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-function.php:365
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-function.php:367
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/accesspress-function.php:372
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/accesspress-options.php:22
+msgid "FullWidth"
+msgstr ""
+
+#: ../inc/accesspress-options.php:23
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/accesspress-options.php:27
+msgid "Grid"
+msgstr ""
+
+#: ../inc/accesspress-options.php:28
+msgid "List"
+msgstr ""
+
+#: ../inc/accesspress-options.php:32
+msgid "Left"
+msgstr ""
+
+#: ../inc/accesspress-options.php:33
+msgid "Right"
+msgstr ""
+
+#: ../inc/accesspress-options.php:34
+msgid "Center"
+msgstr ""
+
+#: ../inc/accesspress-options.php:38
+msgid "Single Post as Slider"
+msgstr ""
+
+#: ../inc/accesspress-options.php:39
+msgid "Category Posts as slider"
+msgstr ""
+
+#: ../inc/accesspress-options.php:42
+msgid "Transparent"
+msgstr ""
+
+#: ../inc/accesspress-options.php:43
+msgid "Classic"
+msgstr ""
+
+#: ../inc/accesspress-options.php:67 ../inc/accesspress-options.php:71 ..
+#: /inc/accesspress-options.php:80
+msgid "Yes"
+msgstr ""
+
+#: ../inc/accesspress-options.php:68 ../inc/accesspress-options.php:72 ..
+#: /inc/accesspress-options.php:81
+msgid "No"
+msgstr ""
+
+#: ../inc/accesspress-options.php:75
+msgid "Fade"
+msgstr ""
+
+#: ../inc/accesspress-options.php:76
+msgid "Slide Horizontal"
+msgstr ""
+
+#: ../inc/accesspress-options.php:77
+msgid "Slide Vertical"
+msgstr ""
+
+#: ../inc/accesspress-options.php:84
+msgid "Show"
+msgstr ""
+
+#: ../inc/accesspress-options.php:85
+msgid "Hide"
+msgstr ""
+
+#: ../inc/accesspress-options.php:88
+msgid "Static Images"
+msgstr ""
+
+#: ../inc/accesspress-options.php:89
+msgid "Logo Slider"
+msgstr ""
+
+#: ../inc/accesspress-options.php:98
+msgid "View Documentaion"
+msgstr ""
+
+#: ../inc/accesspress-options.php:99
+msgid "View Demo"
+msgstr ""
+
+#: ../inc/accesspress-options.php:101
+msgid "Forum:"
+msgstr ""
+
+#: ../inc/accesspress-options.php:101
+msgid "Live Chat:"
+msgstr ""
+
+#: ../inc/accesspress-options.php:102
+msgid ""
+"We offer WordPress Themes/Plugins development, customization, design "
+"integration, WordPress setup, fixes etc."
+msgstr ""
+
+#: ../inc/accesspress-options.php:103
+msgid "Email:"
+msgstr ""
+
+#: ../inc/accesspress-options.php:109
+msgid "View all Themes"
+msgstr ""
+
+#: ../inc/accesspress-options.php:111
+msgid "WordPress Themes"
+msgstr ""
+
+#: ../inc/accesspress-options.php:119
+msgid "View all Plugins"
+msgstr ""
+
+#: ../inc/accesspress-options.php:121
+msgid "WordPress Plugins"
+msgstr ""
+
+#: ../inc/accesspress-options.php:129
+msgid "Request Customization"
+msgstr ""
+
+#: ../inc/accesspress-options.php:131
+msgid "WordPress Customization"
+msgstr ""
+
+#: ../inc/accesspress-options.php:141
+msgid "Basic Setting"
+msgstr ""
+
+#: ../inc/accesspress-options.php:145
+msgid "Web Page Layout"
+msgstr ""
+
+#: ../inc/accesspress-options.php:152
+msgid "Upload Favicon"
+msgstr ""
+
+#: ../inc/accesspress-options.php:162
+msgid "Size of logo should be 270 x 70px"
+msgstr ""
+
+#: ../inc/accesspress-options.php:167
+msgid "Copyright Footer Text"
+msgstr ""
+
+#: ../inc/accesspress-options.php:178
+msgid "Header Setting"
+msgstr ""
+
+#: ../inc/accesspress-options.php:182
+msgid "Header Type"
+msgstr ""
+
+#: ../inc/accesspress-options.php:189
+msgid "Show Search in Header"
+msgstr ""
+
+#: ../inc/accesspress-options.php:190
+msgid "Click here to Show or Hide Search in Header"
+msgstr ""
+
+#: ../inc/accesspress-options.php:198
+msgid "Search PlaceHolder Text"
+msgstr ""
+
+#: ../inc/accesspress-options.php:204
+msgid "Search Button Text"
+msgstr ""
+
+#: ../inc/accesspress-options.php:210
+msgid "Logo Alignment"
+msgstr ""
+
+#: ../inc/accesspress-options.php:222
+msgid "Home Page Setting"
+msgstr ""
+
+#: ../inc/accesspress-options.php:226
+msgid "About Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:230
+msgid "Enable About Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:239
+msgid "Select the Post to show About Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:246
+msgid "About View More Text"
+msgstr ""
+
+#: ../inc/accesspress-options.php:252
+msgid "Feature Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:256
+msgid "Enable Feature Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:265 ../inc/accesspress-options.php:336
+msgid "Feature Section Title"
+msgstr ""
+
+#: ../inc/accesspress-options.php:271 ../inc/accesspress-options.php:342
+msgid "Feature Section Description"
+msgstr ""
+
+#: ../inc/accesspress-options.php:276
+msgid "Select the Category to show Feature Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:283 ../inc/accesspress-options.php:354 ..
+#: /inc/accesspress-options.php:658
+msgid "Display View All Button"
+msgstr ""
+
+#: ../inc/accesspress-options.php:292 ../inc/accesspress-options.php:363 ..
+#: /inc/accesspress-options.php:666
+msgid "View All Button Text"
+msgstr ""
+
+#: ../inc/accesspress-options.php:298
+msgid "Pricing Table Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:302
+msgid "Enable Pricing Table"
+msgstr ""
+
+#: ../inc/accesspress-options.php:306
+msgid "Go to Pricing Table Setting tab to add the table"
+msgstr ""
+
+#: ../inc/accesspress-options.php:311
+msgid "Pricing Table Title"
+msgstr ""
+
+#: ../inc/accesspress-options.php:317
+msgid "Pricing Table Description"
+msgstr ""
+
+#: ../inc/accesspress-options.php:323
+msgid "Awesome Features Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:327
+msgid "Enable Awesome Feature Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:347
+msgid "Select the Category to show Awesome Feature Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:369
+msgid "Portfolio Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:373
+msgid "Enable Portfolio Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:382
+msgid "Portfolio Section Title"
+msgstr ""
+
+#: ../inc/accesspress-options.php:388
+msgid "Portfolio Section Description"
+msgstr ""
+
+#: ../inc/accesspress-options.php:394
+msgid "Select the Category to show Portfolio Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:401
+msgid "Client Logo Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:405
+msgid "Enable Client Logo Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:411
+msgid "Go to <strong>Upload Client Logo</strong> tab to upload logo"
+msgstr ""
+
+#: ../inc/accesspress-options.php:414
+msgid "View Type"
+msgstr ""
+
+#: ../inc/accesspress-options.php:421
+msgid "Clients Title"
+msgstr ""
+
+#: ../inc/accesspress-options.php:427
+msgid "Clients Desription"
+msgstr ""
+
+#: ../inc/accesspress-options.php:434
+msgid "Call To Action"
+msgstr ""
+
+#: ../inc/accesspress-options.php:438
+msgid "Enable Call To Action"
+msgstr ""
+
+#: ../inc/accesspress-options.php:446
+msgid "Call To Action Title"
+msgstr ""
+
+#: ../inc/accesspress-options.php:452
+msgid "Call To Action Description"
+msgstr ""
+
+#: ../inc/accesspress-options.php:458
+msgid "Read More Text"
+msgstr ""
+
+#: ../inc/accesspress-options.php:464
+msgid "Read More Link"
+msgstr ""
+
+#: ../inc/accesspress-options.php:470
+msgid "Background Image for Call to Action"
+msgstr ""
+
+#: ../inc/accesspress-options.php:476
+msgid "Team Member Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:480
+msgid "Enable Team Member Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:488
+msgid "Team Member Title"
+msgstr ""
+
+#: ../inc/accesspress-options.php:494
+msgid "Category For Team Member"
+msgstr ""
+
+#: ../inc/accesspress-options.php:500
+msgid "Stat Counter"
+msgstr ""
+
+#: ../inc/accesspress-options.php:504
+msgid "Enable Stat Counter"
+msgstr ""
+
+#: ../inc/accesspress-options.php:512
+msgid "Stat Counter Title"
+msgstr ""
+
+#: ../inc/accesspress-options.php:518
+msgid "Stat Counter Description"
+msgstr ""
+
+#: ../inc/accesspress-options.php:524
+msgid "Counter 1"
+msgstr ""
+
+#: ../inc/accesspress-options.php:529 ../inc/accesspress-options.php:553 ..
+#: /inc/accesspress-options.php:577 ../inc/accesspress-options.php:601
+msgid "Title"
+msgstr ""
+
+#: ../inc/accesspress-options.php:535 ../inc/accesspress-options.php:559 ..
+#: /inc/accesspress-options.php:583 ../inc/accesspress-options.php:607
+msgid "Number"
+msgstr ""
+
+#: ../inc/accesspress-options.php:541 ../inc/accesspress-options.php:565 ..
+#: /inc/accesspress-options.php:589 ../inc/accesspress-options.php:613
+msgid "Font Awesome text"
+msgstr ""
+
+#: ../inc/accesspress-options.php:544 ../inc/accesspress-options.php:568 ..
+#: /inc/accesspress-options.php:592 ../inc/accesspress-options.php:616
+#, php-format
+msgid ""
+"Add Font Aawesome Code example:fa-bell, Please go to <a href=\"%s\" "
+"target=\"_blank\">Font Awesome Website</a>"
+msgstr ""
+
+#: ../inc/accesspress-options.php:548
+msgid "Counter 2"
+msgstr ""
+
+#: ../inc/accesspress-options.php:572
+msgid "Counter 3"
+msgstr ""
+
+#: ../inc/accesspress-options.php:596
+msgid "Counter 4"
+msgstr ""
+
+#: ../inc/accesspress-options.php:620
+msgid "Blog Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:624
+msgid "Enable Blog Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:633
+msgid "Blog Title"
+msgstr ""
+
+#: ../inc/accesspress-options.php:639
+msgid "Blog Description"
+msgstr ""
+
+#: ../inc/accesspress-options.php:645
+msgid "Read More Text for Single Page"
+msgstr ""
+
+#: ../inc/accesspress-options.php:651
+msgid "Select Category to show Blog Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:672
+msgid "Testimonails Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:676
+msgid "Enable Testimonial Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:684
+msgid "Testimonial Title"
+msgstr ""
+
+#: ../inc/accesspress-options.php:690
+msgid "Category For Testimonial"
+msgstr ""
+
+#: ../inc/accesspress-options.php:696
+msgid "Latest Post"
+msgstr ""
+
+#: ../inc/accesspress-options.php:700
+msgid "Enable Latest Post Section"
+msgstr ""
+
+#: ../inc/accesspress-options.php:708
+msgid "ReadMore text for Latest Post"
+msgstr ""
+
+#: ../inc/accesspress-options.php:724
+msgid "Pricing Table Settings"
+msgstr ""
+
+#: ../inc/accesspress-options.php:728
+msgid "Table 1"
+msgstr ""
+
+#: ../inc/accesspress-options.php:732 ../inc/accesspress-options.php:767 ..
+#: /inc/accesspress-options.php:803
+msgid "Table Content and Title"
+msgstr ""
+
+#: ../inc/accesspress-options.php:751 ../inc/accesspress-options.php:786 ..
+#: /inc/accesspress-options.php:823
+msgid "More Link Text"
+msgstr ""
+
+#: ../inc/accesspress-options.php:757 ../inc/accesspress-options.php:792 ..
+#: /inc/accesspress-options.php:829
+msgid "More Link(URL)"
+msgstr ""
+
+#: ../inc/accesspress-options.php:763
+msgid "Table 2"
+msgstr ""
+
+#: ../inc/accesspress-options.php:799
+msgid "Table 3"
+msgstr ""
+
+#: ../inc/accesspress-options.php:839
+msgid "Slider Setting"
+msgstr ""
+
+#: ../inc/accesspress-options.php:843
+msgid "Enable Slider"
+msgstr ""
+
+#: ../inc/accesspress-options.php:845
+msgid "The Best Size of the image is 1800 X 660px"
+msgstr ""
+
+#: ../inc/accesspress-options.php:853
+msgid "Choose the category to show in Slider"
+msgstr ""
+
+#: ../inc/accesspress-options.php:859
+msgid "Slider Button Text"
+msgstr ""
+
+#: ../inc/accesspress-options.php:865
+msgid "Show Pager (Navigation Dot)"
+msgstr ""
+
+#: ../inc/accesspress-options.php:872
+msgid "Show Controls"
+msgstr ""
+
+#: ../inc/accesspress-options.php:879
+msgid "Slider Transition (Fade/Slide)"
+msgstr ""
+
+#: ../inc/accesspress-options.php:886
+msgid "Slider auto Transactions"
+msgstr ""
+
+#: ../inc/accesspress-options.php:893
+msgid "Slider Speed"
+msgstr ""
+
+#: ../inc/accesspress-options.php:899
+msgid "Slider Pause"
+msgstr ""
+
+#: ../inc/accesspress-options.php:905
+msgid "Show Slider Caption"
+msgstr ""
+
+#: ../inc/accesspress-options.php:916
+msgid "Social Setting"
+msgstr ""
+
+#: ../inc/accesspress-options.php:920
+msgid "Social Icon in header"
+msgstr ""
+
+#: ../inc/accesspress-options.php:928
+msgid "Social Icon in footer"
+msgstr ""
+
+#: ../inc/accesspress-options.php:936
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/accesspress-options.php:942
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/accesspress-options.php:948
+msgid "Google Plus"
+msgstr ""
+
+#: ../inc/accesspress-options.php:953
+msgid "Youtube"
+msgstr ""
+
+#: ../inc/accesspress-options.php:958
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/accesspress-options.php:963
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/accesspress-options.php:968
+msgid "Flicker"
+msgstr ""
+
+#: ../inc/accesspress-options.php:973
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/accesspress-options.php:978
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../inc/accesspress-options.php:983
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/accesspress-options.php:988
+msgid "Sound Cloud"
+msgstr ""
+
+#: ../inc/accesspress-options.php:993
+msgid "GitHub"
+msgstr ""
+
+#: ../inc/accesspress-options.php:998
+msgid "Skype"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1003
+msgid "Tumbler"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1008
+msgid "RSS"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1016
+msgid "Archive Page Setting"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1019
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1023
+msgid "Portfolio Layout"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1030
+msgid "Read More Text for Portfolio list"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1037
+msgid "Team Member"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1041
+msgid "Team Member Layout"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1048
+msgid "Read More Text for Team Member list"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1054
+msgid "Archive"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1058
+msgid "Read More Text for Archive"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1071 ../inc/accesspress-options.php:1075
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1085
+msgid "Upload Client Logo"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1089
+msgid "Associate Logo"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1100
+msgid "About AccessPress Staple"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1110
+msgid "For Support"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1115
+msgid "For Customization"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1123
+msgid "About AccessPress Themes"
+msgstr ""
+
+#: ../inc/accesspress-options.php:1132
+msgid "More from AccessPress Themes"
+msgstr ""
+
+#: ../inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: ../inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:82
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: ../inc/template-tags.php:87
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: ../inc/template-tags.php:118
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-framework-admin.php:82 ..
+#: /inc/options-framework/includes/class-options-framework-admin.php:83
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-framework-admin.php:177
+msgid "AccessPress Staple"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-framework-admin.php:195
+msgid "Save Options"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-framework-admin.php:196
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-framework-admin.php:196
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-framework-admin.php:206
+msgid "Update to Pro"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-framework-admin.php:214
+#, php-format
+msgid "Any question!! Click <a href=\"%s\" target=\"_blank\">here</a> for live chat"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-framework-admin.php:218
+msgid "View Features"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-framework-admin.php:252
+msgid "Default options restored."
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-framework-admin.php:306
+msgid "Options saved."
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-interface.php:317
+msgid "Add Logo"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-media-uploader.php:61
+msgid "No file chosen"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-media-uploader.php:64 ..
+#: /inc/options-framework/includes/class-options-media-uploader.php:117
+msgid "Upload"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-media-uploader.php:66 ..
+#: /inc/options-framework/includes/class-options-media-uploader.php:118
+msgid "Remove"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-media-uploader.php:69
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-media-uploader.php:93
+msgid "View File"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:327
+msgid "No Repeat"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:328
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:329
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:330
+msgid "Repeat All"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:360
+msgid "Top Left"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:361
+msgid "Top Center"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:362
+msgid "Top Right"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:363
+msgid "Middle Left"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:364
+msgid "Middle Center"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:365
+msgid "Middle Right"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:366
+msgid "Bottom Left"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:367
+msgid "Bottom Center"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:368
+msgid "Bottom Right"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:380
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:381
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:453
+msgid "Normal"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:454
+msgid "Italic"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:455
+msgid "Bold"
+msgstr ""
+
+#: ../inc/options-framework/includes/class-options-sanitization.php:456
+msgid "Bold Italic"
+msgstr ""
