@@ -10,4 +10,4 @@ The meat-and-potatoes code for the neck functionality is baked into these files:
 
 You may try out the tool **[here](http://fretmachine.com/fret-machine/)**.
 
-Feel free to drop me a line from the site's 'contact' page if you have any feedback or suggestions on how to improve the site.
+Feel free to drop me a line from the site's 'contact' page if you have feedback or suggestions on how to improve the site.
